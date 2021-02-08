@@ -1,0 +1,34 @@
+#client_categories
+-category	Категория клиента
+-description	Описание
+
+#MCC
+-mcc		код mmc
+-category	Категория 
+
+#stores
+-store_name	Название магазина
+-merchant_name	Название торговой точки
+
+#clients
+-cnuma		номер клиента
+-name		имя
+-surname	фамилия
+-patronymic	отчество
+-categorycode	Категория клиента
+-gender		пол
+-age		возраст
+-married	семейное положение
+-email		email	
+-phonenumber	номер телефона
+-employer	работодатель
+-residenttype	признак резидента
+
+#transactions
+-purchdate	дата операции
+-amount		сумма
+-merchantname	Название торговой точки
+-mcc		код mmc
+-mrchcity	город торговой точки
+-cnum		номер клиента
+
